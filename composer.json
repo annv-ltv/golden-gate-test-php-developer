@@ -1,0 +1,14 @@
+{
+    "name": "sao_b/golden-gate-test-php-developer",
+    "authors": [
+        {
+            "name": "Nguyen Van An",
+            "email": "annv.ltv@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "GoldenGate\\AmazonShippingService\\": "packages/golden-gate/amazon-shipping-service/src/"
+        }
+    }
+}
